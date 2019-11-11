@@ -1,4 +1,6 @@
 {
   "name":"My Timer",
-  "src":"-timer"
+  "type": "app"
+  "src":"-timer",
+  "sortorder": -1
 }
